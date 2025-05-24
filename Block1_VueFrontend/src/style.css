@@ -1,0 +1,55 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  background-color: #f0f0f0;
+}
+
+#app {
+  width: 100%;
+  min-height: 100vh;
+  background-color: white;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+h1, h2, h3 {
+  color: #333;
+  margin: 0 0 20px 0;
+}
+
+button {
+  padding: 8px 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.error-btn {
+  background-color: #ff4444;
+  color: white;
+}
+
+.recover-btn {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.error-message {
+  color: #ff4444;
+  background-color: #ffebee;
+  padding: 10px;
+  border-radius: 4px;
+  margin: 10px 0;
+}
+
+.loading-message {
+  color: #666;
+  background-color: #f5f5f5;
+  padding: 10px;
+  border-radius: 4px;
+  margin: 10px 0;
+}
+
