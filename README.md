@@ -2,6 +2,9 @@
 
 Este repositorio contiene diferentes bloques de desarrollo que forman parte de un sistema completo de gestión de tareas.
 
+## Ver en Vivo
+🔗 [Ver la aplicación en vivo](https://test-prototypes-vue-firebase.vercel.app/)
+
 ## Estructura del Repositorio
 
 ### Block1_VueFrontend

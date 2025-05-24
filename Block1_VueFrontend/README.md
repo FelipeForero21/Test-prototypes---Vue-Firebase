@@ -4,7 +4,7 @@
 Esta aplicación es un sistema de gestión de tareas desarrollado con Vue.js que permite a los usuarios visualizar, filtrar y actualizar el estado de sus tareas. La aplicación incluye una tabla de tareas y una visualización gráfica del progreso.
 
 ## Ver en Vivo
-🔗 [Ver la aplicación en vivo]()
+🔗 [Ver la aplicación en vivo](https://test-prototypes-vue-firebase.vercel.app/)
 
 ## Características Principales
 - Visualización de tareas en formato tabla

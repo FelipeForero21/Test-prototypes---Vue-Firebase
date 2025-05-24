@@ -38,7 +38,7 @@
 ## 2. Diagrama de Flujo - Función de Filtrado
 
 https://excalidraw.com/#json=dg7lI4evUDwqdK2y68SbE,N3NTMplSByNQ_FBnWUt9RA
-
+![Diagrama de Flujo](https://github.com/user-attachments/assets/7df41f3a-b2f2-42be-a159-7b514ec91e34)
 
 ## 3. Architecture Decision Record (ADR)
 
